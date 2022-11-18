@@ -10,3 +10,13 @@ if (antwort == "Berlin"):
     print("Ihre Antwort ist richtig!")
 else:
     print("Ihre Antwort ist leider falsch.")
+print("was ist der flüss zwischen deudscland umd polen ")
+print("oder")
+print("poo")
+print("rein")
+print("spree")
+antwort = input("geben sie bitte ihr antwort \n")
+if (antwort=="oder"):
+    print("ihre antwort ist richtig")
+else: 
+    print("ihre antwort ist fasch ")   
